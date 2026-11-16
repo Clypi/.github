@@ -42,13 +42,13 @@
 
 ## How we work
 
-| | |
-| --- | --- |
-| **01 · Understand first, then build** | The first call is about how your work runs, not about technology. |
-| **02 · A fixed price before we start** | A written offer with a clear scope after a free first call. |
-| **03 · You talk to the developers** | A small team on purpose: the people who plan your software also write it. |
-| **04 · AI only where it helps** | Where a simple rule is enough, we build the simple rule. |
-| **05 · Hosted in the EU** | We work with you in German, English or Turkish. |
+<table>
+  <tr><td><b>01 · Understand first, then build</b></td><td>The first call is about how your work runs, not about technology.</td></tr>
+  <tr><td><b>02 · A fixed price before we start</b></td><td>A written offer with a clear scope after a free first call.</td></tr>
+  <tr><td><b>03 · You talk to the developers</b></td><td>A small team on purpose: the people who plan your software also write it.</td></tr>
+  <tr><td><b>04 · AI only where it helps</b></td><td>Where a simple rule is enough, we build the simple rule.</td></tr>
+  <tr><td><b>05 · Hosted in the EU</b></td><td>We work with you in German, English or Turkish.</td></tr>
+</table>
 
 ## Stack
 
